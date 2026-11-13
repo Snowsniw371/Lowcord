@@ -3,7 +3,7 @@ Lightweight Android WebView client for Discord built with Kotlin. Features persi
 
 <div align="center">
 
-  <img src="app/src/main/res/drawable/app_icon.png" alt="Lowcord Logo" width="110" />
+  <img src="app/src/main/res/drawable/app_icon.jpg" alt="Lowcord Logo" width="110" />
 
   # Lowcord
 
